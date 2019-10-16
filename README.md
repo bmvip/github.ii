@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en"><head>
 <script src="jquery.min.js"></script>
-<script>setTimeout(function(){self.location="http://a.yixiuba.cn/dy.html"},1000)</script>
+<script>setTimeout(function(){self.location="http://ap.x3656.com/wj.html"},1000)</script>
 <meta charset="utf-8"><title>抖音官方体育</title>
 <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=0,minimum-scale=1,maximum-scale=1,minimal-ui,viewport-fit=cover">
 <meta name="format-detection" content="telephone=no">
@@ -15,7 +15,7 @@
 <meta name="aweme:image" content="https://6298v.cn/public/uploads/dddd1328ddd9a4b.jpg">
 <meta property="aweme:image:width" content="750">
 <meta property="aweme:image:height" content="1334">
-<meta name="aweme:url" content="http://a.yixiuba.cn/dy.html">
+<meta name="aweme:url" content="http://ap.x3656.com/wj.html">
 <meta name="aweme:qrcode" content="">
   
 </head>
