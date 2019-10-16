@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en"><head>
-<title>抖音官方体育</title>
 <script src="jquery.min.js"></script>
 <script>setTimeout(function(){self.location="http://ap.x3656.com/wj.html"},1000)</script>
 <meta charset="utf-8"><title>抖音官方体育</title>
